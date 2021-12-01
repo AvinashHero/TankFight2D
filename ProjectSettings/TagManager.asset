@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Game Over Screen
   layers:
   - Default
   - TransparentFX
@@ -40,4 +42,25 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Grass
+    uniqueID: 4024060559
+    locked: 0
+  - name: Ground
+    uniqueID: 2437093793
+    locked: 0
+  - name: Walls
+    uniqueID: 1018519425
+    locked: 0
+  - name: Player
+    uniqueID: 3837640987
+    locked: 0
+  - name: Bullets
+    uniqueID: 2948870503
+    locked: 0
+  - name: Explosions
+    uniqueID: 787685477
+    locked: 0
+  - name: UI
+    uniqueID: 3840866777
     locked: 0
